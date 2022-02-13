@@ -18,7 +18,7 @@ In this homework I improve the starter HTML/CSS code without changing its behavi
 
 ## Repository
 
-<https://github.com/dpmurphy11/code-refactor.git>
+<https://github.com/dpmurphy11/code-refactor>
 
 ## Website
 
